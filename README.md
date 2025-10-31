@@ -1,4 +1,4 @@
-# marketplace-humanize
+# Online Marketplace 
 
 Full-stack JavaScript marketplace starter:
 - Frontend: Vite + React
